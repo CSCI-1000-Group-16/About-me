@@ -26,9 +26,13 @@ export default function Home() {
             <h3>Example About Me Page &rarr;</h3>
             <p>Click here to navigate to an example page</p>
           </a>
-          <a href='/kristina ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
+          <a href='/Kristina ' className='card'>
+            <h3>Kristina's Page &rarr;</h3>
             <p>Click here to navigate to Kristina's page</p>
+          </a>
+          <a href='/Neerja' className='card'>
+            <h3>Neerja's Page &rarr;</h3>
+            <p>Click here to navigate to Neerja's page</p>
           </a>
 
           <a
